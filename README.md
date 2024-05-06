@@ -27,7 +27,11 @@ Check out the live preview [here!](https://sourabhaprasad.github.io/meta-react/)
    ```bash
    npm install
    ```
+### Certificate
+Find the certificate [here](https://coursera.org/share/5ccb61c84576d32cf5f2198d048bfde0).
 
+### Acknowledgements
+This repository documents my individual solution to [Coursera's](https://www.coursera.org/learn/react-basics/home/welcome) meta basics course. 
 
 
 
