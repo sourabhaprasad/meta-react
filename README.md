@@ -1,3 +1,44 @@
+
+# Coursera - React Basics by Meta
+This is a front-end application created using react.js. The graded assessment was to create a calculator app. 
+
+# Preview
+Check out the live preview [here!](https://sourabhaprasad.github.io/meta-react/)
+
+
+## Tech Stacks
+- Frontend: React.js with JSX
+- Other: HTML, CSS, JavaScript (ES6+)
+
+
+## Installation
+
+1. **Clone the Repository:** 
+   ```bash
+    https://github.com/sourabhaprasad/meta-react.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd graded-assignment
+   ```
+
+3. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+
+
+
+
+
+
+
+
+
+
+
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +109,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
